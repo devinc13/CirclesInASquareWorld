@@ -19,7 +19,7 @@ int main()
         sf::Vector2i mapSize;
         sf::Texture tileTexture;
         sf::Sprite tiles;
-        int counter1L = 0;
+        int counter1L = 0; // Player 1 moving Left
         int counter1R = 0;
         int counter2L = 0;
         int counter2R = 0;
